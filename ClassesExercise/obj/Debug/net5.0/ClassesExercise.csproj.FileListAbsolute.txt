@@ -1,0 +1,16 @@
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.exe
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.deps.json
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.json
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.dev.json
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.dll
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\bin\Debug\net5.0\ClassesExercise.pdb
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.AssemblyReference.cache
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfo.cs
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.dll
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.pdb
+C:\Users\amori\repos\ClassesExercise\ClassesExercise\obj\Debug\net5.0\ClassesExercise.genruntimeconfig.cache
